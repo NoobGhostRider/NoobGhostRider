@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning C language.
+- 🌱 I’m currently learning C,C++ language,DSA.
 - :heart_eyes: I’m looking to collaborate on ...
 - 📫 How to reach me: krishnakantmaurya1616@gmail.com
 <!-- 🤔 I’m looking for help with ...
